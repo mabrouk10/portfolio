@@ -303,7 +303,7 @@ img {
   flex-direction: column;
   justify-content: center;
   background-color: rgba(70, 70, 67, .8);
-  color: white;
+  color: white; 
   font-size: 2em;
 }
 
@@ -385,7 +385,7 @@ img {
     color: white;
 }
 
-/* twitter */
+/* linkedin */
 .fa-linkedin-square {
     background: #7655ee;
     color: white;
