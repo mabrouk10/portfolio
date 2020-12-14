@@ -21,7 +21,7 @@ $(document).on("scroll", function () {
       $(tag).removeClass("visible")
     }
   }
-})
+}) 
 
 
 
