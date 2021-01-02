@@ -219,15 +219,16 @@ ul {
 /***Portfolio***/
 /***************/
 
+
 .portfolio {
   padding: 0 8%;
   background: #e8e8e8;
-  background: -moz-linear-gradient(top, #e8e8e8 0%, #2989d8 13%, #2989d8 29%, #2989d8 38%, #2989d8 58%, #2989d8 66%, #2989d8 80%, #2989d8 88%, #e8e8e8 100%);
+  /* background: -moz-linear-gradient(top, #e8e8e8 0%, #2989d8 13%, #2989d8 29%, #2989d8 38%, #2989d8 58%, #2989d8 66%, #2989d8 80%, #2989d8 88%, #e8e8e8 100%);
   background: -webkit-linear-gradient(top, #e8e8e8 0%,#2989d8 13%,#2989d8 29%,#2989d8 38%,#2989d8 58%,#2989d8 66%,#2989d8 80%,#2989d8 88%,#e8e8e8 100%);
-  background: linear-gradient(to bottom, #e8e8e8 0%,#2989d8 13%,#2989d8 29%,#2989d8 38%,#2989d8 58%,#2989d8 66%,#2989d8 80%,#2989d8 88%,#e8e8e8 100%);
+  background: linear-gradient(to bottom, #e8e8e8 0%,#2989d8 13%,#2989d8 29%,#2989d8 38%,#2989d8 58%,#2989d8 66%,#2989d8 80%,#2989d8 88%,#e8e8e8 100%); */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8e8e8', endColorstr='#e8e8e8',GradientType=0 );
   margin: auto;
-  color: white;
+  color: black;
 }
 
 .profilelinks {
@@ -389,13 +390,14 @@ img {
 }
 
 .fa-github {
-    background: rgb(45, 47, 45);
+    /* background: rgb(45, 47, 45); */
+    background: orange;
     color: white;
 }
 
-.fa-youtube {
-    background: red;
-    color: white;
+.fa-hand-rock-o {
+    background: black;
+    color: rgb(56, 58, 56);;
 }
 
 .socials a {
